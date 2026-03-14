@@ -1,5 +1,5 @@
 ### Hi there, I'm Jason 👋
-Final year math student. Has some knowledge of Python, R, SQL, Tableau. Interested in Data Analytics and Machine Learning algorithms.
+Math Graduate. Has some knowledge of Python, R, SQL, Tableau. Interested in Data Analytics and Machine Learning algorithms.
 
 <!--
 **jasonfl-39/jasonfl-39** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
